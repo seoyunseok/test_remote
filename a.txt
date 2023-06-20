@@ -1,2 +1,6 @@
 remote changed and remove
+git remote add origin git@github.com:seoyunseok/test_remote.git
+git branch -M main
+git push -u origin main
+
 
